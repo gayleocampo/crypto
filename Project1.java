@@ -142,16 +142,6 @@ class Project1 {
 			}
 		}
 		
-		
-		/*
-		//gets columns in order
-		for(int i=0; i<numCols; i++){
-			for(int j=0; j<numRows; j++) {
-			}
-		
-		}	*/
-		
-		
 		System.out.println(cipherList);
 	}
 	
