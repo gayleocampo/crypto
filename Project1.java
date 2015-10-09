@@ -94,17 +94,6 @@ class Project1 {
 		return c;	
 	}	
 	
-	/*
-	public static void ProcessKey(String keyword) {
-		int min;
-		char originalKey[] = keyword.toCharArray();
-		char temp;
-		
-		
-	
-	
-	} */
-	
 	public static void substitution(String message, String keyword, int ed) {
 
 		String finalText = "";
